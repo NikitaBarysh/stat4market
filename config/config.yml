@@ -1,0 +1,7 @@
+port: "8080"
+clickhouse:
+  address: "clickhouse-server"
+  port: "9000"
+  database: "default"
+  username: "secretUser"
+  password: "secretPassword"

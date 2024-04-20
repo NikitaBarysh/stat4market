@@ -1,0 +1,12 @@
+SELECT DISTINCT eventType
+FROM events
+GROUP BY eventType
+HAVING COUNT(eventID) > 1000;
+
+SELECT * from events
+WHERE toDayOfMonth(eventTime) = 1;
+
+SELECT userID
+FROM events
+GROUP BY userID
+HAVING COUNT(DISTINCT eventType) > 3;
