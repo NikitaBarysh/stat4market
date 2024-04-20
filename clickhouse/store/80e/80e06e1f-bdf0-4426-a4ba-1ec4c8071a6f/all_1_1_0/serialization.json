@@ -1,0 +1,1 @@
+{"columns":[{"kind":"Default","name":"eventID","num_defaults":0,"num_rows":10},{"kind":"Default","name":"eventTime","num_defaults":0,"num_rows":10},{"kind":"Default","name":"eventType","num_defaults":0,"num_rows":10},{"kind":"Default","name":"payload","num_defaults":0,"num_rows":10},{"kind":"Default","name":"userID","num_defaults":0,"num_rows":10}],"version":0}

@@ -1,0 +1,7 @@
+columns format version: 1
+5 columns:
+`eventID` Int64
+`eventType` String
+`userID` Int64
+`eventTime` DateTime
+`payload` String
